@@ -237,7 +237,7 @@ img {
 }
 .home__blob-img {
   width: 360px;
-  transform: translate(-20px, 5px) scale(1.2);
+  transform: translate(-20px, 15px) scale(1.2);
 }
 
 /*BUTTONS*/
